@@ -24,6 +24,14 @@ Real-time blood donation statistics display for college blood donation camps.
 - **Google Sheets** - Database
 - **Vercel** - Deployment
 
+## 📸 Screenshots
+
+### Dashboard View
+![Dashboard view](./screenshots/dashboard.png)
+
+### Registration View
+![Registration view](./screenshots/registration_bd.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
