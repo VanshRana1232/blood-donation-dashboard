@@ -27,10 +27,10 @@ Real-time blood donation statistics display for college blood donation camps.
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard view](./screenshots/dashboard.png)
+![Dashboard view](./screenshot/dashboard.png)
 
 ### Registration View
-![Registration view](./screenshots/registration_bd.png)
+![Registration view](./screenshot/registration_bd.png)
 
 ## 🚀 Quick Start
 
