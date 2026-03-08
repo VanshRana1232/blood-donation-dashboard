@@ -85,7 +85,7 @@ blood-donation-dashboard/
 
 ## 👤 Author
 
-**Vansh Rana**
+**Vansh Partap Singh**
 - GitHub: [@VanshRana1232](https://github.com/VanshRana1232)
 - LinkedIn: [Vansh Partap Singh](https://www.linkedin.com/in/vansh-partap-singh-9069b7284/)
 - Email: vanshrana1237@gmail.com
